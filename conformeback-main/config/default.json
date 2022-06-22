@@ -1,4 +1,4 @@
 {
-    "db":"mongodb://127.0.0.1/conforme",
-    "secret":"cs2i"
+  "db": "mongodb+srv://hamza:hamza@atlascluster.tsno8cb.mongodb.net/?retryWrites=true&w=majority",
+  "secret": "cs2i"
 }
